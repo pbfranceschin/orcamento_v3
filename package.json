@@ -1,0 +1,14 @@
+{
+  "name": "orcamento_v3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pbfranceschin",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.12.4"
+  }
+}
